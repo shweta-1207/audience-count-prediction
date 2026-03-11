@@ -1,7 +1,7 @@
 # audience-count-prediction
 Predicting daily audience count across multiple locations using machine learning.
 
-# Built for the Cinema Audience Forecasting Challenge (IIT Madras Kaggle Competition, 2025).
+## Built for the Cinema Audience Forecasting Challenge (IIT Madras Kaggle Competition, 2025).
 
 ## Approach
 - Merged data from two booking sources: BookNow (online) and CinePOS (point-of-sale)
@@ -16,3 +16,6 @@ R² = 0.57 on cross-validation
 ## Files
 - `Audience_Count_Prediction.ipynb` — full pipeline: EDA, feature engineering, modelling, submission
 - `requirements.txt` — dependencies
+
+## Data
+Download from the--  https://www.kaggle.com/competitions/Cinema_Audience_Forecasting_challenge.
