@@ -1,4 +1,4 @@
-# audience-count-prediction
+# Cinema-Audience-Forecasting-challenge
 Predicting daily audience count across multiple locations using machine learning.
 
 ## Built for the Cinema Audience Forecasting Challenge (IIT Madras Kaggle Competition, 2025).
